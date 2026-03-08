@@ -7,8 +7,7 @@ Repositório com atividades e projetos da graduação em **Análise e Desenvolvi
 ### Bloco 01 — Fundamentos do Processamento de Dados
 - `python-introducao/` → Introdução à Programação com Python
 - `sql-visualizacao/` → Introdução à Visualização de Dados e SQL
-- `python-processamento-dados/` → Python para Processamento de Dados
-- `sql-modelagem-relacional/` → SQL e Modelagem Relacional
+- `planejamento-carreira/` → Planejamento de Curso e Carreira
 - `projeto-bloco/` → Projeto Integrador do Bloco 01
 
 ## 🔗 Conecte-se
