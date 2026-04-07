@@ -31,7 +31,7 @@ Atualmente atuo como **Analista de Dados & Automação**, desenvolvendo dashboar
 |  | Interno | Externo |
 |--|---------|---------|
 | **Forças** | Experiência prática em dados e automação, facilidade com lógica, disciplina para estudar | — |
-| **Fraquezas** | Inglês técnico em desenvolvimento, pouca experiência em projetos complexos do zero | — |
+| **Fraquezas** | Inglês técnico em desenvolvimento| — |
 | **Oportunidades** | — | Mercado aquecido em dados e segurança, cursos acessíveis, laboratórios virtuais |
 | **Ameaças** | — | Concorrência com profissionais experientes, área em constante atualização |
 
@@ -52,5 +52,3 @@ Atualmente atuo como **Analista de Dados & Automação**, desenvolvendo dashboar
 - 📄 TP1 — Planejamento de Carreira (SWOT)
 - 📄 TP2 — Currículo + LinkedIn
 - 📄 TP3 — Trabalho em Equipe, Diversidade e Ética
-
-> ⚠️ Dados pessoais foram parcialmente ocultados para publicação pública.
