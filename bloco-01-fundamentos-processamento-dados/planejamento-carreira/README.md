@@ -22,7 +22,7 @@ Atuar com **Análise de Dados e Automação de Processos**, com interesse em apr
 
 Atualmente atuo como **Analista de Dados & Automação**, desenvolvendo dashboards, automações em Python e estruturação de bases de dados em ambiente hospitalar.
 
-🔗 [LinkedIn](#) · [GitHub](#)
+🔗 [LinkedIn](https://linkedin.com/in/adryan-silva-santos) · [GitHub](https://github.com/AdryanSilva1)
 
 ---
 
@@ -49,6 +49,6 @@ Atualmente atuo como **Analista de Dados & Automação**, desenvolvendo dashboar
 
 ## 📂 Entregáveis
 
-- 📄 TP1 — Planejamento de Carreira (SWOT)
-- 📄 TP2 — Currículo + LinkedIn
-- 📄 TP3 — Trabalho em Equipe, Diversidade e Ética
+- 📄 [TP1 — Planejamento de Carreira (SWOT)](tp1-planejamento-carreira.md)
+- 📄 [TP2 — Currículo + LinkedIn](tp2-curriculo-linkedin.md)
+- 📄 [TP3 — Trabalho em Equipe, Diversidade e Ética](tp3-trabalho-equipe-etica.md)
