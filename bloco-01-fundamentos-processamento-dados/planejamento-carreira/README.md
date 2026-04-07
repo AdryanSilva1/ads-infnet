@@ -1,8 +1,8 @@
-# 🎯 Planejamento de Curso e Carreira
+# 🎯 Planejamento de Curso e Carreira — Desenvolvimento Profissional em TI
 
 Atividades desenvolvidas durante o **Bloco 01** da graduação em **ADS Full Stack e Automação** — Instituto Infnet (2026–2028).
 
-> Disciplina focada em autoconhecimento profissional, análise de mercado e construção de identidade na área de tecnologia.
+> Disciplina focada em desenvolvimento profissional, análise de mercado e construção de identidade na área de tecnologia.
 
 ---
 
@@ -12,6 +12,7 @@ Atividades desenvolvidas durante o **Bloco 01** da graduação em **ADS Full Sta
 |----|---------|:--------------:|
 | TP1 — Análise SWOT e Planejamento de Carreira | 7 dias adiantado | 100% ✅ |
 | TP2 — Currículo + LinkedIn | 7 dias adiantado | 100% ✅ |
+| TP3 — Trabalho em Equipe, Diversidade e Ética | 5 dias adiantado | 100% ✅ |
 
 ---
 
@@ -19,9 +20,9 @@ Atividades desenvolvidas durante o **Bloco 01** da graduação em **ADS Full Sta
 
 Atuar com **Análise de Dados e Automação de Processos**, com interesse em aprofundamento futuro em **Segurança da Informação**.
 
-Hoje já atuo profissionalmente como **Analista de Dados & Automação** no Instituto Maria Schmitt (IMAS), desenvolvendo dashboards, automações em Python e estruturação de bases de dados em ambiente hospitalar.
+Atualmente atuo como **Analista de Dados & Automação**, desenvolvendo dashboards, automações em Python e estruturação de bases de dados em ambiente hospitalar.
 
-🔗 [LinkedIn](https://linkedin.com/in/adryan-silva-santos) · 🐙 [GitHub](https://github.com/AdryanSilva1)
+🔗 [LinkedIn](#) · [GitHub](#)
 
 ---
 
@@ -38,7 +39,18 @@ Hoje já atuo profissionalmente como **Analista de Dados & Automação** no Inst
 
 ## ⚡ Plano de Ação
 
-- Desenvolver projetos próprios e publicar no GitHub
-- Investir no inglês técnico de forma consistente
-- Aprofundar Python, SQL e visualização de dados ao longo da graduação
+- Desenvolver projetos aplicados em dados e automação (Python + SQL)
+- Publicar projetos estruturados no GitHub (portfólio técnico)
+- Evoluir inglês técnico para leitura de documentação
+- Aprofundar análise de dados e visualização ao longo da graduação
 - Construir presença ativa no LinkedIn com conteúdo técnico
+
+---
+
+## 📂 Entregáveis
+
+- 📄 TP1 — Planejamento de Carreira (SWOT)
+- 📄 TP2 — Currículo + LinkedIn
+- 📄 TP3 — Trabalho em Equipe, Diversidade e Ética
+
+> ⚠️ Dados pessoais foram parcialmente ocultados para publicação pública.
