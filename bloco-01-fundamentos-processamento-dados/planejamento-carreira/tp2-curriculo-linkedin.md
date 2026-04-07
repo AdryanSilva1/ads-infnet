@@ -1,5 +1,5 @@
 # 📄 TP2 — Currículo e LinkedIn (Perfil Profissional)
-
+ 
 Atividade desenvolvida na disciplina **Planejamento de Curso e Carreira** — Instituto Infnet.
 
 ---
