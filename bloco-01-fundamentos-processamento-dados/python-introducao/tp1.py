@@ -1,290 +1,254 @@
 # =============================================================
-# Teste de Performance 1 — Introdução à Programação com Python
+# TP1 — Introdução à Programação com Python
 # Instituto Infnet — Bloco 01
-# Adryan Da Silva Santos
+# Aproveitamento: 100%
+# Autor: Adryan Da Silva Santos
+# Observação:
+
 # =============================================================
 
 
-# ---------------------------------------------------------------
-# Exercício 1 – Importância da Programação e Comentários
-# Uma consultoria de tecnologia está integrando novos desenvolvedores
-# e deseja padronizar a documentação inicial de seus scripts. O setor
-# de treinamento precisa que todo código comece com uma explicação clara
-# sobre por que a automação via Python é vital para a eficiência da empresa.
-#
-# Tarefa: Utilize o caractere # para escrever um comentário explicativo
-# sobre a importância da programação.
-# ---------------------------------------------------------------
-
-# A automação com Python ajuda a empresa a ganhar tempo, reduzir erros manuais
-# e padronizar processos do dia a dia, com scripts bem documentados, qualquer
-# desenvolvedor consegue entender rapidamente o objetivo do código e dar
-# continuidade ao trabalho com mais eficiência.
-
-
-# ---------------------------------------------------------------
-# Exercício 2 – Processo de Escrita e Hello World
-# O departamento de marketing de uma rede de cinemas quer testar a interface
-# de seus novos totens de autoatendimento. O programa deve exibir a saudação
-# oficial solicitada pela gerência na tela do terminal.
-#
-# Tarefa: Utilize a função print() para exibir a mensagem:
-# "Olá Mundo! Bem-vindo ao Cinema Digital"
-# ---------------------------------------------------------------
-
-print("Olá Mundo! Bem-vindo ao Cinema Digital")
-
-
-# ---------------------------------------------------------------
-# Exercício 3 – Abordagem Programática e Atribuição
-# O setor de RH de uma escola de cursos livres deseja preparar o sistema
-# para o registro de novos alunos. O cenário envolve o armazenamento do
-# nome de uma disciplina e o código da turma.
-#
-# Tarefa: Declare disciplina = "Python" e turma = 101.
-# Utilize dois print() separados para exibir cada variável.
-# ---------------------------------------------------------------
-
-disciplina = "Python"
-turma = 101
-
-print(f"Diciplina: {disciplina}")
-print(f"Turma: {turma}")
-
-
-# ---------------------------------------------------------------
-# Exercício 4 – Fluxo IPO: Entrada, Processamento e Saída
-# Uma equipe de logística precisa de um utilitário para registrar dados
-# de estoque seguindo uma estrutura organizada de entrada, processamento
-# e saída (IPO).
-#
-# Tarefa: Crie peso_unidade = 80 e quantidade = 10.
-# Calcule peso_total e exiba o resultado.
-# ---------------------------------------------------------------
-
-# Entrada
-peso_unidade = 80
-quantidade = 10
-
-# Processamento
-peso_total = peso_unidade * quantidade
-
-# Saída
-print(f"Peso total: {peso_total} Kg")
-
+def exercicio_01():
+    """Exercício 1 — Importância da Programação e Comentários"""
 
-# ---------------------------------------------------------------
-# Exercício 5 – Atribuição de Variáveis de Inventário
-# O gerente de um pequeno hortifruti deseja digitalizar o controle
-# de seus itens mais vendidos.
-#
-# Tarefa: Atribua quantidade_macas = 150 e preco_maca = 5.99.
-# Exiba primeiro a quantidade e depois o preço em linhas separadas.
-# ---------------------------------------------------------------
-
-quantidade_macas = 150
-preco_maca = 5.99
-
-print(f"Quantidade de macas: {quantidade_macas}")
-print(f"Preço de macas: R${preco_maca:.2f}")
-
-
-# ---------------------------------------------------------------
-# Exercício 6 – Tipos Básicos: Int e Float no Financeiro
-# Um analista financeiro está criando um controle de contratos para
-# uma microempresa. O programa deve confirmar os tipos de dados processados.
-#
-# Tarefa: Crie contratos = 12 e faturamento = 2500.50.
-# Exiba o tipo de cada variável utilizando type().
-# ---------------------------------------------------------------
+    # A automação com Python ajuda a empresa a ganhar tempo, reduzir erros manuais
+    # e padronizar processos do dia a dia, com scripts bem documentados, qualquer
+    # desenvolvedor consegue entender rapidamente o objetivo do código e dar
+    # continuidade ao trabalho com mais eficiência.
 
-contratos = 12
-faturamento = 2500.50
-
-print(f"Tipo da variável contratos: {type(contratos).__name__}")
-print(f"Tipo da variável faturamento: {type(faturamento).__name__}")
-
-
-# ---------------------------------------------------------------
-# Exercício 7 – Tipos Básicos: Booleanos em Segurança
-# Uma empresa de segurança patrimonial precisa de um verificador para
-# o estado dos sensores de um armazém.
-#
-# Tarefa: Crie sensor_ativo = True, exiba o valor, altere para False
-# e imprima novamente.
-# ---------------------------------------------------------------
 
-sensor_ativo = True
-print(f"Estado do sensor: {sensor_ativo}")
+def exercicio_02():
+    """Exercício 2 — Processo de Escrita e Hello World"""
 
-sensor_ativo = False
-print(f"Estado do sensor: {sensor_ativo}")
+    print("Olá Mundo! Bem-vindo ao Cinema Digital")
 
 
-# ---------------------------------------------------------------
-# Exercício 8 – Operações Aritméticas: Soma de Receita
-# O setor de vendas de uma loja de eletrônicos precisa calcular
-# a receita bruta do período da manhã.
-#
-# Tarefa: Defina venda_smartphones = 5400.00 e venda_acessorios = 1250.50.
-# Crie receita_total com a soma e exiba o resultado.
-# ---------------------------------------------------------------
+def exercicio_03():
+    """Exercício 3 — Abordagem Programática e Atribuição"""
 
-venda_smartphones = 5400.00
-venda_acessorios = 1250.50
+    disciplina = "Python"
+    turma = 101
 
-receita_total = venda_smartphones + venda_acessorios
+    print(f"Diciplina: {disciplina}")
+    print(f"Turma: {turma}")
 
-print(f"Receita total: R${receita_total:.2f}")
 
+def exercicio_04():
+    """Exercício 4 — Fluxo IPO: Entrada, Processamento e Saída"""
 
-# ---------------------------------------------------------------
-# Exercício 9 – Operações de Subtração de Saldo
-# O setor de contas a pagar de uma loja precisa calcular o saldo
-# disponível após o pagamento de uma fatura de fornecedor.
-#
-# Tarefa: Crie saldo_atual = 10000 e valor_fatura = 3500.
-# Calcule saldo_final e exiba o valor.
-# ---------------------------------------------------------------
+    # Entrada
+    peso_unidade = 80
+    quantidade = 10
 
-saldo_atual = 10000
-valor_fatura = 3500
+    # Processamento
+    peso_total = peso_unidade * quantidade
 
-saldo_final = saldo_atual - valor_fatura
+    # Saída
+    print(f"Peso total: {peso_total} Kg")
 
-print(f"Saldo final após o pagamento: R${saldo_final:.2f}")
 
+def exercicio_05():
+    """Exercício 5 — Atribuição de Variáveis de Inventário"""
 
-# ---------------------------------------------------------------
-# Exercício 10 – Multiplicação e Divisão de Preços
-# Um supermercado vende fardos de produtos e o gerente precisa saber
-# o preço unitário para etiquetagem.
-#
-# Tarefa: Defina preco_fardo = 24.0 e unidades = 6.
-# Calcule preco_unitario e exiba o resultado.
-# ---------------------------------------------------------------
+    quantidade_macas = 150
+    preco_maca = 5.99
 
-preco_fardo = 24.0
-unidades = 6
+    print(f"Quantidade de macas: {quantidade_macas}")
+    print(f"Preço de macas: R${preco_maca:.2f}")
 
-preco_unitario = preco_fardo / unidades
 
-print(f"Preço por unidade: R${preco_unitario:.2f}")
+def exercicio_06():
+    """Exercício 6 — Tipos Básicos: Int e Float no Financeiro"""
 
+    contratos = 12
+    faturamento = 2500.50
 
-# ---------------------------------------------------------------
-# Exercício 11 – Otimização de Carga e Estabilidade de Frete
-# Um operador logístico trabalha com transporte de insumos industriais.
-# Cada saca pesa 65kg e o veículo possui limite de carga útil de 550kg.
-#
-# Tarefa: Calcule o número máximo de sacas que podem ser embarcadas
-# sem exceder o limite e a porcentagem de ocupação do caminhão.
-# ---------------------------------------------------------------
+    print(f"Tipo da variável contratos: {type(contratos).__name__}")
+    print(f"Tipo da variável faturamento: {type(faturamento).__name__}")
 
-capacidade_maxima = 550
-peso_saca = 65
-carga_atual = 0
-quantidade_sacas = 0
 
-while carga_atual + peso_saca <= capacidade_maxima:
-    carga_atual += peso_saca
-    quantidade_sacas += 1
+def exercicio_07():
+    """Exercício 7 — Tipos Básicos: Booleanos em Segurança"""
 
-porcentagem_ocupacao = (carga_atual / capacidade_maxima) * 100
+    sensor_ativo = True
+    print(f"Estado do sensor: {sensor_ativo}")
 
-print(f"Sacas carregadas: {quantidade_sacas}")
-print(f"Carga total no caminhão: {carga_atual} kg")
-print(f"Ocupação do caminhão: {porcentagem_ocupacao:.2f}%")
+    sensor_ativo = False
+    print(f"Estado do sensor: {sensor_ativo}")
 
 
-# ---------------------------------------------------------------
-# Exercício 12 – Sincronização de Turnos e Manutenção Preventiva
-# Uma planta petroquímica opera em ciclos de 8 dias. Após 125 dias,
-# o engenheiro precisa identificar em qual estágio do ciclo a planta
-# se encontra para agendar uma parada técnica.
-#
-# Tarefa: Determine a fase atual do ciclo e quantos dias até a parada.
-# ---------------------------------------------------------------
+def exercicio_08():
+    """Exercício 8 — Operações Aritméticas: Soma de Receita"""
 
-dias_decorridos = 125
-periodicidade = 8
+    venda_smartphones = 5400.00
+    venda_acessorios = 1250.50
 
-dia_atual_do_ciclo = dias_decorridos % periodicidade
-dias_faltando = periodicidade - dia_atual_do_ciclo
-dias_totais_parada = dias_decorridos + dias_faltando
+    receita_total = venda_smartphones + venda_acessorios
 
-print(f"Dia atual dentro do ciclo: {dia_atual_do_ciclo}")
-print(f"Dias restantes para o fim do ciclo: {dias_faltando}")
-print(f"Parada técnica prevista para o dia: {dias_totais_parada}")
+    print(f"Receita total: R${receita_total:.2f}")
 
 
-# ---------------------------------------------------------------
-# Exercício 13 – Engenharia Reversa de Tributação e Logística
-# Um analista financeiro precisa calcular o custo de uma licença de
-# software (R$2500) com alíquota de 5% e taxa de suporte de R$150,
-# onde o suporte não sofre incidência tributária.
-#
-# Tarefa: Calcule em uma linha o valor final usando parênteses.
-# ---------------------------------------------------------------
+def exercicio_09():
+    """Exercício 9 — Operações de Subtração de Saldo"""
 
-custo_base = 2500
-aliquota = 0.05
-suporte = 150
+    saldo_atual = 10000
+    valor_fatura = 3500
 
-print(f"Valor final: R${custo_base + (custo_base * aliquota) + suporte:.2f}")
+    saldo_final = saldo_atual - valor_fatura
 
+    print(f"Saldo final após o pagamento: R${saldo_final:.2f}")
 
-# ---------------------------------------------------------------
-# Exercício 14 – Auditoria de Desempenho e Eficiência de Ativos
-# O gestor de um parque industrial monitora tempo de uso de braços
-# robóticos em minutos para calcular custo de depreciação.
-#
-# Tarefa: Converta 345 minutos para horas decimais e exiba o resultado.
-# ---------------------------------------------------------------
 
-minutos = 345
-horas = minutos / 60
+def exercicio_10():
+    """Exercício 10 — Multiplicação e Divisão de Preços"""
 
-print(f"O valor convertido: {horas:.2f} h")
+    preco_fardo = 24.0
+    unidades = 6
 
+    preco_unitario = preco_fardo / unidades
 
-# ---------------------------------------------------------------
-# Exercício 15 – Telemetria Aeroespacial e Autonomia de Voo
-# Um drone realizou dois voos: 3.77 horas e 214 minutos. O sistema
-# processa energia em segundos (2.7 joules/segundo) com 15% de margem.
-#
-# Tarefa: Calcule o total em segundos e a energia necessária com segurança.
-# ---------------------------------------------------------------
+    print(f"Preço por unidade: R${preco_unitario:.2f}")
 
-segundos_voo1 = 3.77 * 3600
-segundos_voo2 = 214 * 60
-segundos_totais = segundos_voo1 + segundos_voo2
-energia = segundos_totais * 2.7
-energia_final = energia * 1.15
 
-print(f"Tempo total em segundos: {segundos_totais:.2f}s")
-print(f"Energia necessária com segurança: {energia_final:.2f} J")
+def exercicio_11():
+    """Exercício 11 — Otimização de Carga e Estabilidade de Frete"""
 
+    capacidade_maxima = 550
+    peso_saca = 65
+    carga_atual = 0
+    quantidade_sacas = 0
 
-# ---------------------------------------------------------------
-# Exercício 16 – Decomposição de Jornada para Fechamento de Folha
-# Um técnico de som trabalhou 1527 minutos. O RH precisa discriminar
-# horas completas (R$60,00/h) e minutos excedentes (R$1,20/min).
-#
-# Tarefa: Calcule horas, minutos excedentes e valores a pagar.
-# ---------------------------------------------------------------
+    while carga_atual + peso_saca <= capacidade_maxima:
+        carga_atual += peso_saca
+        quantidade_sacas += 1
 
-minutos_totais = 1527
+    porcentagem_ocupacao = (carga_atual / capacidade_maxima) * 100
 
-horas = minutos_totais // 60
-minutos_excedentes = minutos_totais % 60
+    print(f"Sacas carregadas: {quantidade_sacas}")
+    print(f"Carga total no caminhão: {carga_atual} kg")
+    print(f"Ocupação do caminhão: {porcentagem_ocupacao:.2f}%")
 
-valor_horas = horas * 60
-valor_minutos = minutos_excedentes * 1.20
-valor_total = valor_horas + valor_minutos
 
-print(f"Horas trabalhadas: {horas}h")
-print(f"Minutos excedentes: {minutos_excedentes}min")
-print(f"Valor pelas horas: R${valor_horas:.2f}")
-print(f"Valor pelos minutos: R${valor_minutos:.2f}")
-print(f"Valor total a receber: R${valor_total:.2f}")
+def exercicio_12():
+    """Exercício 12 — Sincronização de Turnos e Manutenção Preventiva"""
+
+    dias_decorridos = 125
+    periodicidade = 8
+
+    dia_atual_do_ciclo = dias_decorridos % periodicidade
+    dias_faltando = periodicidade - dia_atual_do_ciclo
+    dias_totais_parada = dias_decorridos + dias_faltando
+
+    print(f"Dia atual dentro do ciclo: {dia_atual_do_ciclo}")
+    print(f"Dias restantes para o fim do ciclo: {dias_faltando}")
+    print(f"Parada técnica prevista para o dia: {dias_totais_parada}")
+
+
+def exercicio_13():
+    """Exercício 13 — Engenharia Reversa de Tributação e Logística"""
+
+    custo_base = 2500
+    aliquota = 0.05
+    suporte = 150
+
+    print(f"Valor final: R${custo_base + (custo_base * aliquota) + suporte:.2f}")
+
+
+def exercicio_14():
+    """Exercício 14 — Auditoria de Desempenho e Eficiência de Ativos"""
+
+    minutos = 345
+    horas = minutos / 60
+
+    print(f"O valor convertido: {horas:.2f} h")
+
+
+def exercicio_15():
+    """Exercício 15 — Telemetria Aeroespacial e Autonomia de Voo"""
+
+    segundos_voo1 = 3.77 * 3600
+    segundos_voo2 = 214 * 60
+    segundos_totais = segundos_voo1 + segundos_voo2
+    energia = segundos_totais * 2.7
+    energia_final = energia * 1.15
+
+    print(f"Tempo total em segundos: {segundos_totais:.2f}s")
+    print(f"Energia necessária com segurança: {energia_final:.2f} J")
+
+
+def exercicio_16():
+    """Exercício 16 — Decomposição de Jornada para Fechamento de Folha"""
+
+    minutos_totais = 1527
+
+    horas = minutos_totais // 60
+    minutos_excedentes = minutos_totais % 60
+
+    valor_horas = horas * 60
+    valor_minutos = minutos_excedentes * 1.20
+    valor_total = valor_horas + valor_minutos
+
+    print(f"Horas trabalhadas: {horas}h")
+    print(f"Minutos excedentes: {minutos_excedentes}min")
+    print(f"Valor pelas horas: R${valor_horas:.2f}")
+    print(f"Valor pelos minutos: R${valor_minutos:.2f}")
+    print(f"Valor total a receber: R${valor_total:.2f}")
+
+
+EXERCICIOS = {
+    "1": exercicio_01,
+    "2": exercicio_02,
+    "3": exercicio_03,
+    "4": exercicio_04,
+    "5": exercicio_05,
+    "6": exercicio_06,
+    "7": exercicio_07,
+    "8": exercicio_08,
+    "9": exercicio_09,
+    "10": exercicio_10,
+    "11": exercicio_11,
+    "12": exercicio_12,
+    "13": exercicio_13,
+    "14": exercicio_14,
+    "15": exercicio_15,
+    "16": exercicio_16,
+}
+
+
+def exibir_menu():
+    print("\n" + "=" * 60)
+    print("TP1 — Introdução à Programação com Python")
+    print("=" * 60)
+    print("Digite o número do exercício que deseja executar.")
+    print("Digite 0 para sair.")
+    print("-" * 60)
+
+    for numero in range(1, 17):
+        print(f"{numero:02d} — Exercício {numero}")
+
+    print("=" * 60)
+
+
+def main():
+    while True:
+        exibir_menu()
+        opcao = input("Escolha uma opção: ").strip()
+
+        if opcao == "0":
+            print("Execução finalizada.")
+            break
+
+        exercicio = EXERCICIOS.get(opcao)
+
+        if exercicio is None:
+            print("Opção inválida. Tente novamente.")
+            continue
+
+        print("\n" + "-" * 60)
+        print(f"Executando exercício {opcao}")
+        print("-" * 60)
+        exercicio()
+
+
+if __name__ == "__main__":
+    main()
