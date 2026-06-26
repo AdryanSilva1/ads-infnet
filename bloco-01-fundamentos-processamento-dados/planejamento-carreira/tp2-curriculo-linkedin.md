@@ -1,6 +1,11 @@
-# 📄 TP2 — Currículo e LinkedIn (Perfil Profissional)
- 
-Atividade desenvolvida na disciplina **Planejamento de Curso e Carreira** — Instituto Infnet.
+# TP2 — Currículo e LinkedIn (Perfil Profissional)
+
+Este documento apresenta a construção do perfil profissional desenvolvida durante a disciplina Planejamento de Curso e Carreira. A atividade teve como objetivo estruturar um currículo, definir um direcionamento de carreira e organizar as principais competências desenvolvidas até o momento da graduação.
+
+| | |
+|---|---|
+| **Disciplina** | Planejamento de Curso e Carreira |
+| **Instituição** | Instituto Infnet |
 
 ---
 
@@ -24,40 +29,38 @@ Possuo perfil analítico, foco em organização estrutural e direcionamento para
 
 ## 💼 Experiência Profissional
 
-### Analista de Dados & Automação  
-Atuação em ambiente hospitalar  
-Período: Atual
+**Analista de Dados & Automação** · Ambiente Hospitalar · *Atual*
 
-- Estruturação e padronização de bases de dados operacionais  
-- Desenvolvimento de dashboards para acompanhamento de indicadores  
-- Automação de tarefas utilizando Python e planilhas  
-- Limpeza, tratamento e validação de dados  
-- Apoio à melhoria de fluxos operacionais  
-- Redução de retrabalho por meio de automação e organização de dados  
+- Estruturação e padronização de bases de dados operacionais
+- Desenvolvimento de dashboards para acompanhamento de indicadores
+- Automação de tarefas utilizando Python e planilhas
+- Limpeza, tratamento e validação de dados
+- Apoio à melhoria de fluxos operacionais
+- Redução de retrabalho por meio de automação e organização de dados
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-**Análise e Desenvolvimento de Sistemas — Full Stack e Automação**  
-Instituto Infnet — Em andamento  
+**Análise e Desenvolvimento de Sistemas — Full Stack e Automação**
+Instituto Infnet · *Em andamento*
 
 ---
 
 ## ⚙️ Competências Técnicas
 
-- Python (análise de dados e automação)  
-- Excel e Google Sheets  
-- Construção de dashboards e indicadores (KPIs)  
-- Limpeza e padronização de dados  
-- Organização e estruturação de bases de dados  
+- Python (análise de dados e automação)
+- Excel e Google Sheets
+- Construção de dashboards e indicadores (KPIs)
+- Limpeza e padronização de dados
+- Organização e estruturação de bases de dados
 
 ---
 
 ## 🧩 Competências Comportamentais
 
-- Pensamento analítico  
-- Organização  
-- Resolução de problemas  
-- Aprendizado contínuo  
-- Foco em eficiência  
+- Pensamento analítico
+- Organização
+- Resolução de problemas
+- Aprendizado contínuo
+- Foco em eficiência

@@ -1,10 +1,15 @@
-# 📄 TP3 — Trabalho em Equipe, Diversidade e Ética na TI
+# TP3 — Trabalho em Equipe, Diversidade e Ética na TI
 
-Atividade desenvolvida na disciplina **Planejamento de Curso e Carreira** — Instituto Infnet.
+Este documento reúne as reflexões desenvolvidas sobre trabalho em equipe, diversidade e ética na área de Tecnologia da Informação. A atividade teve como objetivo analisar competências comportamentais essenciais para a atuação profissional e compreender sua influência na construção de ambientes colaborativos e soluções tecnológicas de qualidade.
+
+| | |
+|---|---|
+| **Disciplina** | Planejamento de Curso e Carreira |
+| **Instituição** | Instituto Infnet |
 
 ---
 
-## 🧠 Questão 01 — Trabalho em equipe
+## 🧠 Questão 01 — Trabalho em Equipe
 
 Uma das habilidades mais importantes para o trabalho em equipe na área de tecnologia é a **comunicação**.
 

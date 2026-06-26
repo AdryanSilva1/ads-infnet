@@ -1,12 +1,17 @@
-# 📄 TP1 — Planejamento de Carreira e Análise SWOT
+# TP1 — Planejamento de Carreira e Análise SWOT
 
-Atividade desenvolvida na disciplina **Planejamento de Curso e Carreira** — Instituto Infnet.
+Este documento apresenta o planejamento inicial de carreira desenvolvido durante a disciplina Planejamento de Curso e Carreira. A atividade teve como objetivo refletir sobre a área de atuação desejada, identificar competências necessárias para o mercado de trabalho e elaborar um plano de desenvolvimento profissional por meio da análise SWOT.
+
+| | |
+|---|---|
+| **Disciplina** | Planejamento de Curso e Carreira |
+| **Instituição** | Instituto Infnet |
 
 ---
 
 ## 🎯 Área de Interesse
 
-Tenho interesse em seguir na área de **Segurança da Informação**, com foco em redes, sistemas operacionais e proteção de dados, devido à crescente importância da segurança no ambiente digital.
+Atualmente atuo com análise de dados e automação em ambiente hospitalar, experiência que despertou meu interesse pela proteção de informações e pela Segurança da Informação como próximo passo da minha carreira.
 
 ---
 
@@ -20,47 +25,31 @@ O profissional de Segurança da Informação atua na proteção de sistemas e re
 
 ## ⚙️ Conhecimentos e Características
 
-Para atuar na área, são necessários conhecimentos em:
+**Conhecimentos necessários:**
+- Redes de computadores
+- Sistemas operacionais
+- Fundamentos de segurança
+- Noções de programação
 
-- Redes de computadores  
-- Sistemas operacionais  
-- Fundamentos de segurança  
-- Noções de programação  
-
-Além disso, algumas características são essenciais:
-
-- Pensamento lógico  
-- Curiosidade  
-- Disciplina  
-- Capacidade de resolução de problemas  
+**Características essenciais:**
+- Pensamento lógico
+- Curiosidade
+- Disciplina
+- Capacidade de resolução de problemas
 
 ---
 
 ## 🔍 Análise SWOT Pessoal
 
-### ✅ Pontos Fortes
-- Interesse e dedicação à área de TI  
-- Facilidade com lógica e redes  
-- Disciplina para estudar  
-
-### ⚠️ Pontos Fracos
-- Inglês técnico em desenvolvimento  
-- Sobrecarga de estudos em alguns períodos  
-
-### 🚀 Oportunidades
-- Mercado aquecido em segurança da informação  
-- Grande disponibilidade de cursos e materiais  
-- Possibilidade de prática com laboratórios virtuais  
-
-### ⚡ Ameaças
-- Concorrência com profissionais experientes  
-- Necessidade constante de atualização  
-- Limitação de tempo em determinados períodos  
+|  | **Positivo** | **Negativo** |
+|---|---|---|
+| **Interno** | **Pontos Fortes**<br>• Interesse e dedicação à área de TI<br>• Facilidade com lógica e redes<br>• Disciplina para estudar | **Pontos Fracos**<br>• Inglês técnico em desenvolvimento<br>• Sobrecarga de estudos em alguns períodos |
+| **Externo** | **Oportunidades**<br>• Mercado aquecido em segurança da informação<br>• Grande disponibilidade de cursos e materiais<br>• Possibilidade de prática com laboratórios virtuais | **Ameaças**<br>• Concorrência com profissionais experientes<br>• Necessidade constante de atualização<br>• Limitação de tempo em determinados períodos |
 
 ---
 
 ## 📈 Plano de Ação
 
-- Organizar melhor a rotina de estudos  
-- Investir no desenvolvimento do inglês técnico  
+- Organizar melhor a rotina de estudos
+- Investir no desenvolvimento do inglês técnico
 - Aproveitar as oportunidades do mercado para crescimento profissional
